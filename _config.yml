@@ -1,1 +1,21 @@
-theme: jekyll-theme-hacker
+## Settings
+title: Saul-Qiang2
+owner: "DeerRIDER"
+url: "https://Saul-Qiang2.github.io"
+baseurl: "/pRoJEct-NeGYa"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "921752771@qq.com"
+github: "Saul-Qiang2"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Designed by DeerRIDER, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
