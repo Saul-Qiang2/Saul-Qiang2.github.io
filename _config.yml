@@ -2,7 +2,8 @@
 title: Saul-Qiang2
 owner: "DeerRIDER"
 url: "https://Saul-Qiang2.github.io"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: ""
+# "/pRoJEct-NeGYa"
 permalink: /:title/
 description: ""
 markdown: kramdown
