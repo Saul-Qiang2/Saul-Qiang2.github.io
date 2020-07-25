@@ -22,12 +22,12 @@ $$
 有志者事竟成
 $$
 
-* Code highlight with Rouge
+* 第一次更新
 
 ```ruby
 第一次更新
 ```
-## 文章
+## 下载区
 
 [**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
 
